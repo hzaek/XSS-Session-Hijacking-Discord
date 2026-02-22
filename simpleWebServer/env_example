@@ -1,0 +1,18 @@
+#Server configration
+PORT=3000
+NODE_ENV=development
+CLIENT_URL=http://localhost:3000
+
+#Session configration
+SECRET=
+
+#Database configration for sessions store (pool)
+DB_USER=USERNAME
+DB_HOST=localhost 
+DB_NAME=dbTokens
+DB_PASSWORD=USER_PASSWORD
+DB_PORT=5432
+
+#Database configration
+DATABASE_URL=postgresql://USER_NAME:PASSWORD@localhost:5432/dbTokens
+

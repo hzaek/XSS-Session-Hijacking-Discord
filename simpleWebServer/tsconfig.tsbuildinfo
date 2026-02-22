@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/__tests__/test.test.ts","./src/config/config.ts","./src/config/database.ts","./src/config/logging.ts","./src/e2e/index.spec.ts","./src/routes/router.ts","./src/types/index.d.ts"],"version":"5.9.2"}
